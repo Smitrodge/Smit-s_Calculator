@@ -72,3 +72,10 @@ button {
     transform: scale(0.95);
     box-shadow: inset 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
+
+@media screen and (max-width : 380px) {
+    .calculator-body {
+        width: 80%;
+    }
+
+}
